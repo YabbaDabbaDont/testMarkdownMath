@@ -1,1 +1,2 @@
 # testMarkdownMath
+$\sqrt{4}$
